@@ -1,3 +1,5 @@
+"""This is an example"""
+
 import java.io.FileDescriptor;
 import java.io.FileOutputStream;
 import java.io.IOException;
